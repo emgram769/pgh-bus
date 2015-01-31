@@ -1,0 +1,14 @@
+{
+  "name": "pgh-bus",
+  "version": "0.0.0",
+  "description": "A lightweight bus tracking server/html client for Pittsburgh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bram Wasti",
+  "license": "ISC",
+  "dependencies": {
+    "xml2js": "*"
+  }
+}

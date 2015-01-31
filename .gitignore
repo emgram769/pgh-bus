@@ -1,0 +1,12 @@
+# Node crap
+node_modules
+
+# Vim crap
+*.swp
+*.swo
+*~
+
+# OS X crap
+.DS_Store
+.Spotlight-V100
+.Trashes
